@@ -1,0 +1,17 @@
+Learning Goal: I'm working on a computer science writing question and need an explanation and answer to help me learn.
+
+Project report requirements:
+o A brief description of the design process you used to obtain the circuits. Be sure to point
+out why you chose a particular design, along with the steps you took to minimize the
+amount of hardware required. This includes
+ State diagram
+ State reduction
+ Final (reduced) state table
+o Include all design elements, such as truth tables, state diagrams, tables, etc,
+o Test the device in the simulator. Include a test plan:
+ Include your secret code for verification
+ Example inputs, expected outputs and what happened when you tested.
+ Descriptions, along with a detailed explanation of what simulations you did, what
+they show, to demonstrate that the circuit works properly under “all” circumstances.
+
+Requirements: Required by question   |   .doc file
